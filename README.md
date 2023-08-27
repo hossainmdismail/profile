@@ -3,22 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3tahsan&label=Profile%20views&color=0e75b6&style=flat" alt="w3tahsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w3tahsan" alt="w3tahsan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossainmdismail" alt="hossainmdismail" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://tahsan.dev/](https://tahsan.dev/)
+- 👨‍💻 All of my projects are available at [hossainmdismail](https://github.com/hossainmdismail)
 
-- 📫 How to reach me **tahsan.web.bd@gmail.com**
+- 📫 How to reach me **esmailkhalifa010@gmail.com**
 
 - ⚡ Fun fact **I like to play Video Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/w3tahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="w3tahsan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahadi-tahsan-41525b77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadi-tahsan-41525b77" height="30" width="40" /></a>
-<a href="https://fb.com/mahadi.tahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahadi.tahsan" height="30" width="40" /></a>
-<a href="https://instagram.com/tahsan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahsan2" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/w3tahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="w3tahsan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/w3tahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="w3tahsan" height="30" width="40" /></a>
 </p>
